@@ -1,3 +1,3 @@
 # Hello-World
 Learn
-Priti: leaning commit
+Priti: learning commit
